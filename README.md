@@ -4,21 +4,21 @@ Projeto sobre o uso da Inteligência Artificial como ferramenta de apoio aos est
 
 ## Sobre o projeto
 
-Este projeto tem como objetivo apresentar o uso da Inteligência Artificial como ferramenta de apoio aos estudantes, com foco na criação e utilização de prompts mais claros, objetivos e eficientes.
+Este projeto apresenta a Inteligência Artificial como uma ferramenta de apoio aos estudantes, com foco na criação de prompts mais claros, objetivos e eficientes.
 
-A proposta surgiu a partir da percepção de que muitos estudantes utilizam ferramentas de Inteligência Artificial no cotidiano acadêmico, mas nem sempre sabem como formular instruções adequadas para obter respostas mais úteis e relacionadas às suas necessidades.
+A proposta surgiu a partir da percepção de que muitos estudantes utilizam ferramentas de Inteligência Artificial no cotidiano acadêmico, mas nem sempre sabem como formular instruções adequadas para obter respostas mais úteis.
 
 ## Problema identificado
 
 A utilização de ferramentas de Inteligência Artificial vem crescendo no ambiente educacional. Entretanto, apenas utilizar uma ferramenta de IA não garante que os resultados sejam adequados.
 
-Um dos fatores que influenciam diretamente a qualidade das respostas é a forma como o usuário apresenta sua solicitação. Prompts vagos, incompletos ou sem contexto podem gerar respostas pouco úteis, enquanto instruções mais estruturadas podem produzir resultados mais relevantes.
+Prompts vagos, incompletos ou sem contexto podem gerar respostas pouco úteis. Por outro lado, instruções mais estruturadas podem produzir resultados mais relevantes.
 
-Dessa forma, existe a necessidade de orientar os estudantes sobre como elaborar prompts de maneira mais clara, objetiva e contextualizada.
+Dessa forma, existe a necessidade de orientar os estudantes sobre como elaborar prompts de maneira clara, objetiva e contextualizada.
 
 ## Objetivo
 
-O objetivo deste projeto é desenvolver um material de apoio que auxilie os estudantes a compreender os princípios básicos da criação de prompts e a utilizar a Inteligência Artificial de maneira mais eficiente, consciente e responsável.
+Desenvolver um material de apoio que auxilie os estudantes a compreender os princípios básicos da criação de prompts e a utilizar a Inteligência Artificial de maneira mais eficiente, consciente e responsável.
 
 ## Público-alvo
 
@@ -28,7 +28,7 @@ O projeto é direcionado principalmente a estudantes que desejam utilizar ferram
 
 O projeto será desenvolvido por meio de exemplos práticos, comparações entre prompts e orientações para melhorar a comunicação com ferramentas de Inteligência Artificial.
 
-Entre os conteúdos previstos estão:
+Os conteúdos previstos incluem:
 
 * exemplos de prompts simples e aprimorados;
 * orientações para fornecer contexto à Inteligência Artificial;
@@ -54,17 +54,17 @@ Com essas informações, a ferramenta de Inteligência Artificial consegue compr
 
 ## Boas práticas para criação de prompts
 
-Para obter respostas mais úteis, o estudante pode considerar alguns elementos importantes ao elaborar um prompt:
+Para obter respostas mais úteis, o estudante pode:
 
 * informar claramente o que deseja;
 * apresentar o contexto da atividade;
 * indicar para quem a resposta será direcionada;
-* definir o formato desejado para a resposta;
+* definir o formato desejado;
 * especificar o nível de linguagem ou profundidade;
 * fornecer exemplos quando necessário;
-* revisar as informações fornecidas pela Inteligência Artificial.
+* verificar as informações fornecidas pela Inteligência Artificial.
 
-A utilização de prompts mais estruturados não garante que todas as respostas estejam corretas. Por isso, é importante analisar, conferir e utilizar as informações geradas pela IA de forma responsável.
+A utilização de prompts mais estruturados não garante que todas as respostas sejam corretas. Por isso, é importante analisar e conferir as informações geradas pela IA.
 
 ## Ferramentas
 
@@ -76,10 +76,11 @@ As ferramentas de Inteligência Artificial serão utilizadas como apoio durante 
 
 O projeto será ampliado progressivamente com novos exemplos de prompts, orientações práticas e materiais direcionados ao uso da Inteligência Artificial no contexto acadêmico.
 
-Entre os próximos conteúdos, pretende-se apresentar diferentes situações em que os estudantes podem utilizar prompts estruturados, demonstrando como pequenas mudanças na forma de elaborar uma solicitação podem melhorar a qualidade das respostas obtidas.
+Também serão desenvolvidos exemplos de diferentes situações acadêmicas, demonstrando como pequenas mudanças na elaboração de um prompt podem melhorar a qualidade das respostas obtidas.
 
 ## Autor
 
 **Wallace F. Junqueira**
 
 Estudante de Gestão da Tecnologia da Informação.
+
