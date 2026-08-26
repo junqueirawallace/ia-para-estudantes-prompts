@@ -1,5 +1,4 @@
 # IA para Estudantes: Sugestões
-Este é um prompt para um objetivo específico
 
 Projeto sobre o uso da Inteligência Artificial como ferramenta de apoio aos estudantes na criação e utilização de prompts.
 
@@ -15,7 +14,7 @@ A utilização de ferramentas de Inteligência Artificial vem crescendo no ambie
 
 Prompts vagos, incompletos ou sem contexto podem gerar respostas pouco úteis. Por outro lado, instruções mais estruturadas podem produzir resultados mais relevantes.
 
-Dessa forma, existe a necessidade de orientar os estudantes sobre como elaborar prompts de maneira clara, objetiva e contextualizada.
+Dessa forma, existe a necessidade de orientar os estudantes sobre como elaborar prompt de maneira clara, objetiva e contextualizada.
 
 ## Objetivo
 
