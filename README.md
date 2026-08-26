@@ -1,5 +1,5 @@
 # IA para Estudantes: Sugestões
-objetivo
+Este é um prompt para um objetivo específico
 
 Projeto sobre o uso da Inteligência Artificial como ferramenta de apoio aos estudantes na criação e utilização de prompts.
 
