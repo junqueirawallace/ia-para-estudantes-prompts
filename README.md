@@ -62,7 +62,7 @@ Para obter respostas mais úteis, o estudante pode:
 * definir o formato desejado;
 * especificar o nível de linguagem ou profundidade;
 * fornecer exemplos quando necessário;
-* conferir as informações fornecidas pela Inteligência Artificial.
+* confira as informações fornecidas pela Inteligência Artificial.
 
 A utilização de prompts mais estruturados não garante que todas as respostas sejam corretas. Por isso, é importante analisar e conferir as informações geradas pela IA.
 
