@@ -36,16 +36,15 @@ Entre os conteúdos previstos estão:
 
 ## Exemplo inicial
 
-Prompt pouco estruturado
+### Prompt pouco estruturado
 
-> Explique inteligência artificial.
+Explique inteligência artificial.
 
-Prompt aprimorado
+### Prompt aprimorado
 
-> Explique o conceito de Inteligência Artificial para um estudante de Gestão de Tecnologia da Informação, utilizando uma linguagem simples e apresentando três exemplos de aplicação no cotidiano.
+Explique o conceito de Inteligência Artificial para um estudante de Gestão de Tecnologia da Informação, utilizando uma linguagem simples e apresentando três exemplos de aplicação no cotidiano.
 
-O segundo exemplo apresenta mais contexto e define melhor o tipo de resposta esperado.
-
+O segundo exemplo apresenta mais contexto e define melhor o tipo de resposta esperada.
 ## Ferramentas
 
 O projeto utiliza o GitHub para organização e compartilhamento dos materiais desenvolvidos. As ferramentas de Inteligência Artificial serão utilizadas como apoio durante a elaboração e análise dos conteúdos.
