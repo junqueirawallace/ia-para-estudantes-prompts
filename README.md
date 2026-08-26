@@ -1,4 +1,4 @@
-# IA para Estudantes: Prompts
+# IA para Estudantes: Sugestões
 
 Projeto sobre o uso da Inteligência Artificial como ferramenta de apoio aos estudantes na criação e utilização de prompts.
 
@@ -22,7 +22,7 @@ Desenvolver um material de apoio que auxilie os estudantes a compreender os prin
 
 ## Público-alvo
 
-O projeto é direcionado principalmente a estudantes que desejam utilizar ferramentas de Inteligência Artificial como apoio aos estudos, pesquisas, organização de informações e desenvolvimento de atividades acadêmicas.
+O projeto é direcionado principalmente a estudantes que desejam utilizar ferramentas de Inteligência Artificial como apoio a estudos, pesquisas, organização de informações e desenvolvimento de atividades acadêmicas.
 
 ## Proposta
 
@@ -38,11 +38,11 @@ Os conteúdos previstos incluem:
 
 ## Exemplo inicial
 
-### Básico
+### Prompt básico
 
 > Explique o que é Inteligência Artificial.
 
-### Inovado
+### Prompt aprimorado
 
 > Explique o conceito de Inteligência Artificial para um estudante de Gestão da Tecnologia da Informação, utilizando uma linguagem simples e apresentando três exemplos de aplicação no cotidiano.
 
@@ -83,4 +83,3 @@ Também serão desenvolvidos exemplos de diferentes situações acadêmicas, dem
 **Wallace F. Junqueira**
 
 Estudante de Gestão da Tecnologia da Informação.
-
