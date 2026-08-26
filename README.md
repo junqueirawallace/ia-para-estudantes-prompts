@@ -62,7 +62,8 @@ Para obter respostas mais úteis, confira:
 * definir o formato;
 * especificar o nível de linguagem ou profundidade;
 * fornecer exemplos quando necessário;
-* conferir as informações fornecidas pela Inteligência Artificial.
+
+Confira as informações fornecidas pela Inteligência Artificial antes de utilizá-las.
 
 A utilização de prompts mais estruturados não garante que todas as respostas sejam corretas. Por isso, é importante analisar e conferir as informações geradas pela IA.
 
