@@ -48,7 +48,7 @@ Os conteúdos previstos incluem:
 
 ### Por que o segundo prompt é melhor?
 
-O segundo prompt apresenta mais informações sobre o que o estudante deseja obter como resposta. Ele define o público-alvo, solicita uma linguagem específica e determina a quantidade e o tipo de exemplos esperados.
+O segundo prompt apresenta mais informações sobre o que o estudante deseja obter como resposta. Ele define o público alvo, solicita uma linguagem específica e determina a quantidade e o tipo de exemplos esperados.
 
 Com essas informações, a ferramenta de Inteligência Artificial consegue compreender melhor a necessidade do usuário e produzir uma resposta mais adequada ao objetivo apresentado.
 
