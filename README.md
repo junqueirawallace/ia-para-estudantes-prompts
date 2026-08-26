@@ -36,11 +36,11 @@ Entre os conteúdos previstos estão:
 
 ## Exemplo inicial
 
-### Prompt pouco estruturado
+### Pouco estruturado
 
 > Explique inteligência artificial.
 
-### Prompt aprimorado
+### Aprimorado
 
 > Explique o conceito de Inteligência Artificial para um estudante de Gestão de Tecnologia da Informação, utilizando uma linguagem simples e apresentando três exemplos de aplicação no cotidiano.
 
