@@ -56,6 +56,6 @@ O projeto será ampliado progressivamente com novos exemplos de prompts, orienta
 
 ## Autor
 
-**Wallace Junqueira**
+**Wallace F. Junqueira**
 
 Estudante de Gestão da Tecnologia da Informação.
