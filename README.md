@@ -83,5 +83,3 @@ Entre os próximos conteúdos, pretende-se apresentar diferentes situações em 
 **Wallace F. Junqueira**
 
 Estudante de Gestão da Tecnologia da Informação.
-
-
