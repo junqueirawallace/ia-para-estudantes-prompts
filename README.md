@@ -54,15 +54,15 @@ Com essas informações, a ferramenta de Inteligência Artificial consegue compr
 
 ## Boas práticas para criação de prompts
 
-Para obter respostas mais úteis, é importante que o estudante:
+Para obter respostas mais úteis, o estudante deve:
 
-* informe claramente o que deseja;
-* apresente o contexto da atividade;
-* indique para quem a resposta será direcionada;
-* defina o formato;
-* especifique o nível de linguagem ou profundidade;
-* forneça exemplos quando necessário;
-* confira as informações fornecidas pela Inteligência Artificial.
+* informar claramente o que deseja;
+* apresentar o contexto da atividade;
+* indicar para quem a resposta será direcionada;
+* definir o formato;
+* especificar o nível de linguagem ou profundidade;
+* fornecer exemplos quando necessário;
+* conferir as informações fornecidas pela Inteligência Artificial.
 
 A utilização de prompts mais estruturados não garante que todas as respostas sejam corretas. Por isso, é importante analisar e conferir as informações geradas pela IA.
 
