@@ -1,7 +1,6 @@
 # ia-para-estudantes-prompts
 Projeto sobre o uso da Inteligência Artificial como ferramenta de apoio aos estudantes na criação e utilização de prompts.
 # IA para Estudantes: Prompts
-
 ## Sobre o projeto
 
 Este projeto tem como objetivo apresentar o uso da Inteligência Artificial como ferramenta de apoio aos estudantes, com foco na criação e utilização de prompts mais claros, objetivos e eficientes.
@@ -58,3 +57,4 @@ O projeto será ampliado progressivamente com novos exemplos de prompts, orienta
 **Wallace F. Junqueira**
 
 Estudante de Gestão da Tecnologia da Informação.
+
