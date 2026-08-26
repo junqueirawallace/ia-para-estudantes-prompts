@@ -42,7 +42,7 @@ Os conteúdos previstos incluem:
 
 > Explique o que é Inteligência Artificial.
 
-### Prompt Atual
+### Inovado
 
 > Explique o conceito de Inteligência Artificial para um estudante de Gestão da Tecnologia da Informação, utilizando uma linguagem simples e apresentando três exemplos de aplicação no cotidiano.
 
