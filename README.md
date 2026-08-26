@@ -38,9 +38,9 @@ Os conteúdos previstos incluem:
 
 ## Exemplo inicial
 
-### Prompt pouco estruturado
+### Prompt básico
 
-> Explique inteligência artificial.
+> Explique o que é Inteligência Artificial.
 
 ### Prompt aprimorado
 
