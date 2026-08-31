@@ -301,6 +301,17 @@ Também é necessário questionar, analisar e avaliar as respostas recebidas.
 
 O estudante continua sendo responsável pela utilização das informações e pelo resultado final de seu trabalho.
 
+## Conclusão
+
+O projeto IA para Estudantes: Prompts apresenta a Inteligência Artificial como uma ferramenta de apoio ao processo de aprendizagem, destacando a importância de elaborar solicitações claras, objetivas e contextualizadas.
+
+Ao longo do projeto, foram apresentados exemplos práticos, boas práticas, estruturas e modelos que podem auxiliar estudantes a melhorar a forma como utilizam ferramentas de Inteligência Artificial em diferentes situações acadêmicas.
+
+A proposta também destaca que uma boa solicitação não garante, por si só, que a resposta produzida esteja correta. É necessário analisar, conferir e avaliar criticamente as informações obtidas.
+
+Dessa forma, o projeto busca contribuir para que os estudantes desenvolvam maior autonomia no uso da Inteligência Artificial, utilizando essas ferramentas de maneira consciente, responsável e alinhada aos seus objetivos de aprendizagem.
+
+O projeto continuará sendo desenvolvido e poderá receber novos exemplos, materiais e recursos à medida que forem identificadas outras necessidades dos estudantes.
 
 ## Ferramentas
 
