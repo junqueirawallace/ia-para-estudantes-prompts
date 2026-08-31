@@ -253,6 +253,55 @@ Cada atividade possui objetivos diferentes. Por isso, o estudante deve analisar 
 
 A Inteligência Artificial deve ser utilizada como ferramenta de apoio ao aprendizado, e não como substituta da compreensão, análise e participação do estudante no processo acadêmico.
 
+## Uso responsável da Inteligência Artificial
+
+A utilização da Inteligência Artificial como ferramenta de apoio aos estudos deve ser acompanhada de responsabilidade e análise crítica por parte do estudante.
+
+As ferramentas de Inteligência Artificial podem produzir respostas úteis, mas também podem apresentar informações incorretas, incompletas ou desatualizadas. Por isso, o estudante não deve considerar toda informação gerada pela ferramenta como verdadeira sem realizar uma avaliação.
+
+### Confira as informações
+
+Antes de utilizar uma informação produzida pela Inteligência Artificial em uma atividade acadêmica, é importante verificar sua precisão e, quando necessário, consultar fontes confiáveis.
+
+### Preserve a autoria
+
+A Inteligência Artificial pode auxiliar na organização de ideias, compreensão de conteúdos e revisão de textos, mas o estudante deve participar ativamente do processo de aprendizagem.
+
+O uso da ferramenta não deve substituir a compreensão do conteúdo ou a elaboração própria do estudante.
+
+### Não compartilhe informações pessoais
+
+O estudante deve evitar inserir informações pessoais, documentos, senhas, dados acadêmicos sensíveis ou outras informações que não devam ser compartilhadas com ferramentas de Inteligência Artificial.
+
+### Utilize a IA como apoio
+
+A Inteligência Artificial pode ser utilizada para:
+
+* esclarecer dúvidas;
+* explicar conceitos;
+* organizar informações;
+* auxiliar na revisão de textos;
+* criar questões para estudo;
+* apresentar exemplos;
+* ajudar na organização de ideias.
+
+Entretanto, a decisão final sobre como utilizar o conteúdo obtido deve ser feita pelo estudante.
+
+### Respeite as regras acadêmicas
+
+Cada instituição de ensino pode possuir regras próprias sobre a utilização de Inteligência Artificial em atividades acadêmicas.
+
+Antes de utilizar uma ferramenta de IA em trabalhos, avaliações ou projetos, o estudante deve verificar as orientações da instituição e do professor responsável.
+
+### Pensamento crítico
+
+Utilizar Inteligência Artificial de maneira eficiente não significa apenas saber elaborar boas solicitações.
+
+Também é necessário questionar, analisar e avaliar as respostas recebidas.
+
+O estudante continua sendo responsável pela utilização das informações e pelo resultado final de seu trabalho.
+
+
 ## Ferramentas
 
 O projeto utiliza o GitHub para organização e compartilhamento dos materiais desenvolvidos.
