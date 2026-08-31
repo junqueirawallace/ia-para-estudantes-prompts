@@ -201,6 +201,57 @@ Entretanto, quando uma tarefa exige uma resposta mais específica, fornecer cont
 
 O estudante também deve analisar a resposta obtida e verificar se as informações atendem ao objetivo da atividade.
 
+## Guia de solicitações para estudantes
+
+Os exemplos a seguir podem ser utilizados como modelos e adaptados de acordo com a necessidade de cada estudante. O objetivo não é fornecer respostas prontas, mas apresentar formas de estruturar solicitações para obter resultados mais adequados.
+
+### Resumo de conteúdo
+
+> Resuma o conteúdo abaixo para um estudante de Gestão da Tecnologia da Informação. Destaque os principais conceitos, utilize uma linguagem simples e organize as informações em tópicos.
+
+### Explicação de um conceito
+
+> Explique o conceito de [assunto] para um estudante que está começando a estudar esse tema. Utilize uma linguagem simples, apresente os principais pontos e inclua exemplos práticos.
+
+### Preparação para uma prova
+
+> Estou estudando [assunto] para uma avaliação. Explique os principais conceitos utilizando uma linguagem simples e, ao final, apresente cinco questões para testar meu conhecimento. Não apresente as respostas imediatamente.
+
+### Correção e melhoria de texto
+
+> Analise o texto abaixo e corrija erros de ortografia, gramática e pontuação. Mantenha o sentido original do texto e utilize uma linguagem adequada para um trabalho acadêmico.
+
+### Organização de informações
+
+> Organize as informações abaixo de forma clara e objetiva. Separe os principais conceitos, definições e exemplos e apresente o resultado em uma tabela.
+
+### Criação de perguntas para estudo
+
+> Com base no conteúdo abaixo, crie dez perguntas para revisão. Misture perguntas de nível básico, intermediário e avançado. Apresente as respostas somente depois das perguntas.
+
+### Explicação passo a passo
+
+> Explique como realizar [atividade] passo a passo. Considere que o estudante possui conhecimento básico sobre o assunto e apresente cada etapa de forma simples e organizada.
+
+### Transformação de conteúdo
+
+> Transforme o conteúdo abaixo em um resumo para revisão. Mantenha as informações mais importantes, destaque os conceitos principais e organize o material de forma que facilite o estudo.
+
+## Como adaptar os modelos
+
+Os modelos apresentados podem ser modificados conforme a necessidade de cada atividade.
+
+O estudante pode substituir informações como o assunto, o público, o formato e o nível de detalhamento. Também pode acrescentar novas orientações quando precisar de uma resposta mais específica.
+
+Por exemplo, uma solicitação pode começar com um modelo básico e ser aprimorada conforme o estudante percebe que precisa de mais informações ou de um formato diferente.
+
+## Importante
+
+Os modelos apresentados neste projeto são exemplos de apoio e não devem ser utilizados de maneira automática em todas as situações.
+
+Cada atividade possui objetivos diferentes. Por isso, o estudante deve analisar a necessidade da tarefa, adaptar a solicitação e avaliar criticamente a resposta produzida pela Inteligência Artificial.
+
+A Inteligência Artificial deve ser utilizada como ferramenta de apoio ao aprendizado, e não como substituta da compreensão, análise e participação do estudante no processo acadêmico.
 
 ## Ferramentas
 
