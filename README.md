@@ -81,7 +81,7 @@ O que mudou?
 
 A segunda solicitação apresenta o público, a linguagem, o objetivo e o formato esperado para a resposta.
 
-## Melhoria de texto
+### Melhoria de texto
 
 ### Solicitação simples:
 
@@ -122,6 +122,85 @@ A segunda solicitação apresenta o assunto, o público, a forma de explicação
 O que mudou?
 
 A segunda solicitação define o formato da resposta e indica quais informações devem ser organizadas.
+
+## Estrutura de um bom prompt
+
+Uma solicitação bem estruturada pode ajudar a ferramenta de Inteligência Artificial a compreender melhor o que o estudante deseja obter como resultado.
+
+Não existe uma única forma correta de elaborar um prompt. Entretanto, alguns elementos podem contribuir para tornar a solicitação mais clara e objetiva.
+
+### 1. Objetivo
+
+O objetivo informa o que o estudante deseja que a Inteligência Artificial faça.
+
+**Exemplo:**
+
+> Explique o conceito de computação em nuvem.
+
+Quanto mais claro for o objetivo, mais fácil será direcionar a resposta para a necessidade do estudante.
+
+### 2. Contexto
+
+O contexto apresenta informações que ajudam a Inteligência Artificial a compreender a situação em que a solicitação está sendo realizada.
+
+**Exemplo:**
+
+> Estou estudando computação em nuvem na faculdade e preciso compreender os conceitos básicos para uma atividade acadêmica.
+
+O contexto ajuda a direcionar a resposta de acordo com a situação apresentada.
+
+### 3. Público
+
+Informar para quem a resposta será direcionada pode ajudar a definir a linguagem e o nível de profundidade.
+
+**Exemplo:**
+
+> Explique o conceito para um estudante de Gestão da Tecnologia da Informação que está começando a estudar o assunto.
+
+### 4. Formato
+
+O estudante pode indicar como deseja receber a resposta.
+
+**Exemplo:**
+
+> Apresente a explicação em tópicos e inclua três exemplos práticos.
+
+Definir o formato facilita a organização das informações e pode tornar a resposta mais adequada ao objetivo.
+
+### 5. Nível de detalhamento
+
+Também é possível indicar o nível de profundidade esperado.
+
+**Exemplo:**
+
+> Utilize uma linguagem simples, explique os conceitos principais e evite termos técnicos sem explicação.
+
+Essa orientação ajuda a adequar a resposta ao conhecimento prévio do estudante.
+
+## Combinando os elementos
+
+Os elementos apresentados podem ser combinados em uma única solicitação.
+
+### Exemplo completo
+
+> Explique o conceito de computação em nuvem para um estudante de Gestão da Tecnologia da Informação que está começando a estudar o assunto. Utilize uma linguagem simples, apresente os principais conceitos em tópicos e inclua três exemplos de aplicação no cotidiano.
+
+Nesse exemplo, a solicitação apresenta:
+
+* **Objetivo:** explicar o conceito de computação em nuvem;
+* **Contexto:** estudante que está começando a estudar o assunto;
+* **Público:** estudante de Gestão da Tecnologia da Informação;
+* **Formato:** tópicos;
+* **Nível de detalhamento:** linguagem simples e três exemplos práticos.
+
+### Por que utilizar essa estrutura?
+
+Uma solicitação não precisa conter todos esses elementos para funcionar. A quantidade de informações necessárias depende do objetivo do estudante.
+
+Entretanto, quando uma tarefa exige uma resposta mais específica, fornecer contexto, público, formato e nível de detalhamento pode ajudar a Inteligência Artificial a produzir um resultado mais próximo do que foi solicitado.
+
+O estudante também deve analisar a resposta obtida e verificar se as informações atendem ao objetivo da atividade.
+
 
 ## Ferramentas
 
