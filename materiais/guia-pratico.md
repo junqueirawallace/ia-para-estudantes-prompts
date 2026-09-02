@@ -118,3 +118,40 @@ Antes de enviar uma solicitação, leia novamente o que foi escrito e pergunte:
 > A ferramenta consegue entender exatamente o que eu quero?
 
 Se a resposta for não, tente acrescentar contexto, objetivo, público, formato ou nível de detalhamento.
+
+## Checklist antes de enviar uma solicitação
+
+Antes de enviar uma solicitação para uma ferramenta de Inteligência Artificial, o estudante pode fazer uma rápida verificação.
+
+* O objetivo está claro?
+* O contexto necessário foi informado?
+* Está claro para quem a resposta será destinada?
+* O formato desejado foi indicado?
+* O nível de linguagem ou detalhamento foi definido?
+* Foram fornecidos exemplos ou informações importantes quando necessário?
+* A solicitação está objetiva e sem informações desnecessárias?
+
+Se alguma dessas perguntas não puder ser respondida, o estudante pode revisar a solicitação e acrescentar as informações necessárias.
+
+## Depois de receber a resposta
+
+A análise não termina quando a Inteligência Artificial apresenta uma resposta.
+
+O estudante deve:
+
+* verificar as informações apresentadas;
+* comparar informações importantes com fontes confiáveis;
+* identificar possíveis erros ou informações incompletas;
+* adaptar o conteúdo de acordo com o objetivo da atividade;
+* respeitar as regras da instituição de ensino;
+* utilizar a Inteligência Artificial como ferramenta de apoio ao aprendizado.
+
+## Conclusão do guia
+
+Saber utilizar uma ferramenta de Inteligência Artificial vai além de fazer perguntas.
+
+Uma solicitação bem estruturada pode ajudar a obter respostas mais adequadas, mas o estudante continua sendo responsável por analisar, compreender e utilizar as informações recebidas.
+
+O objetivo deste guia é contribuir para que estudantes desenvolvam maior autonomia e utilizem a Inteligência Artificial de maneira consciente, responsável e alinhada ao processo de aprendizagem.
+
+**IA é uma ferramenta de apoio. O aprendizado continua sendo do estudante.**
