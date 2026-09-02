@@ -78,3 +78,43 @@ O estudante pode substituir o tema, acrescentar contexto, definir o público, es
 Uma solicitação pode começar de forma simples e ser aprimorada conforme o estudante identifica novas informações que precisam ser incluídas.
 
 O mais importante é adaptar a solicitação à necessidade da atividade, em vez de utilizar um modelo de forma automática.
+
+## Do básico ao detalhado
+
+Uma solicitação pode ser aprimorada aos poucos. O estudante pode começar com uma pergunta simples e acrescentar informações conforme a necessidade.
+
+### Nível 1 — Básico
+
+> Explique inteligência artificial.
+
+Essa solicitação apresenta apenas o assunto. A resposta pode ser ampla e abordar diferentes aspectos do tema.
+
+### Nível 2 — Mais específico
+
+> Explique o conceito de Inteligência Artificial para um estudante de Gestão da Tecnologia da Informação, utilizando uma linguagem simples.
+
+Nesse caso, o estudante já informa o público e o nível de linguagem desejado.
+
+### Nível 3 — Detalhado
+
+> Explique o conceito de Inteligência Artificial para um estudante de Gestão da Tecnologia da Informação que está começando a estudar o assunto. Utilize uma linguagem simples, apresente os principais conceitos em tópicos e inclua três exemplos de aplicação no cotidiano.
+
+Agora a solicitação apresenta o assunto, o público, o contexto, a linguagem, o formato e a quantidade de exemplos desejada.
+
+### O que aprendemos?
+
+A evolução dos exemplos demonstra que não é necessário criar uma solicitação complexa desde o início.
+
+O estudante pode começar com uma ideia básica e acrescentar informações para direcionar melhor a resposta.
+
+Quanto mais específica for a necessidade, mais informações podem ser fornecidas para orientar a ferramenta de Inteligência Artificial.
+
+Entretanto, adicionar informações desnecessárias também pode tornar a solicitação confusa. O objetivo é fornecer as informações que realmente ajudam a ferramenta a compreender a tarefa.
+
+## Dica prática
+
+Antes de enviar uma solicitação, leia novamente o que foi escrito e pergunte:
+
+> A ferramenta consegue entender exatamente o que eu quero?
+
+Se a resposta for não, tente acrescentar contexto, objetivo, público, formato ou nível de detalhamento.
