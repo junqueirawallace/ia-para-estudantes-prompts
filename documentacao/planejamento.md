@@ -16,6 +16,20 @@ Solicitações pouco estruturadas podem resultar em respostas que não atendem a
 
 Diante dessa situação, o projeto propõe a criação de materiais de apoio que auxiliem estudantes a melhorar a forma como utilizam ferramentas de Inteligência Artificial.
 
+## Justificativa
+
+A utilização de ferramentas de Inteligência Artificial vem ampliando as possibilidades de apoio às atividades acadêmicas, oferecendo recursos que podem auxiliar estudantes na organização de informações, compreensão de conteúdos, revisão de textos e desenvolvimento de atividades. Entretanto, o acesso a essas ferramentas não garante, por si só, que sejam utilizadas de maneira adequada, crítica e responsável.
+
+Nesse contexto, torna-se relevante desenvolver conhecimentos que permitam aos estudantes compreender como formular solicitações de maneira clara, fornecer informações adequadas e analisar criticamente as respostas produzidas pelas ferramentas de Inteligência Artificial. A UNESCO destaca a importância de preparar estudantes para utilizar a Inteligência Artificial de forma segura e significativa, desenvolvendo competências relacionadas ao conhecimento, à aplicação prática, à ética e ao pensamento crítico. (UNESCO)
+
+Além das possibilidades oferecidas pela tecnologia, existem desafios relacionados à utilização da Inteligência Artificial no ambiente educacional, como a necessidade de preservar a autonomia do estudante, verificar informações produzidas pelas ferramentas e compreender aspectos relacionados ao uso ético e responsável da tecnologia. A orientação da UNESCO sobre Inteligência Artificial generativa na educação também ressalta a necessidade de uma abordagem centrada no ser humano, considerando aspectos éticos, segurança, privacidade e utilização significativa dessas ferramentas. (UNESCO)
+
+Diante desse cenário, o projeto IA para Estudantes: Prompts propõe o desenvolvimento de materiais educativos que auxiliem estudantes a utilizar ferramentas de Inteligência Artificial de maneira mais clara , eficiente, consciente e responsável.
+
+A proposta justifica-se pela possibilidade de transformar orientações relacionadas à elaboração de solicitações em um material prático e acessível, contendo exemplos aplicados a situações acadêmicas, modelos adaptáveis, orientações de uso e um checklist para auxiliar o estudante na elaboração e análise de suas solicitações.
+
+Dessa forma, o projeto busca contribuir para o desenvolvimento da autonomia e do pensamento crítico dos estudantes diante das ferramentas de Inteligência Artificial, utilizando a tecnologia como recurso de apoio ao processo de aprendizagem, e não como substituta da participação e da responsabilidade do próprio estudante.
+
 ## Objetivo geral
 
 Desenvolver materiais educativos que auxiliem estudantes a utilizar ferramentas de Inteligência Artificial de maneira mais clara, eficiente, consciente e responsável.
