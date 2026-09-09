@@ -84,3 +84,15 @@ Atualização dos conteúdos a partir das necessidades identificadas durante o d
 Espera-se desenvolver um conjunto de materiais educativos que possa auxiliar estudantes a utilizar ferramentas de Inteligência Artificial de maneira mais eficiente e consciente.
 
 O projeto também busca incentivar o pensamento crítico, a autonomia e a responsabilidade no uso dessas ferramentas durante o processo de aprendizagem.
+
+## Impacto esperado
+
+Espera-se que o projeto contribua para ampliar a autonomia dos estudantes no uso de ferramentas de Inteligência Artificial, oferecendo orientações práticas que possam ser aplicadas em diferentes situações acadêmicas.
+
+O material desenvolvido busca incentivar uma utilização mais consciente e crítica da Inteligência Artificial, estimulando o estudante a fornecer informações adequadas, analisar as respostas produzidas pelas ferramentas e verificar a confiabilidade das informações antes de utilizá-las.
+
+Também se espera que o projeto contribua para aproximar os estudantes das possibilidades oferecidas pelas tecnologias de Inteligência Artificial, sem substituir sua participação, responsabilidade e capacidade de análise no processo de aprendizagem.
+
+A proposta está alinhada à necessidade de desenvolver competências relacionadas ao uso responsável da Inteligência Artificial. A UNESCO destaca, em seu framework de competências para estudantes, aspectos como pensamento centrado no ser humano, ética, aplicação das tecnologias de IA e capacidade de analisar criticamente suas soluções. (UNESCO)
+
+Como o projeto não contempla, nesta etapa, uma aplicação experimental com estudantes, o impacto apresentado é considerado esperado, não sendo atribuídos ao projeto resultados de aprendizagem que ainda não tenham sido mensurados.
