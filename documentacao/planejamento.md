@@ -97,6 +97,18 @@ A proposta está alinhada à necessidade de desenvolver competências relacionad
 
 Como o projeto não contempla, nesta etapa, uma aplicação experimental com estudantes, o impacto apresentado é considerado esperado, não sendo atribuídos ao projeto resultados de aprendizagem que ainda não tenham sido mensurados.
 
+## Limitações do projeto
+
+O projeto apresenta algumas limitações relacionadas ao seu escopo e às condições de desenvolvimento.
+
+Nesta etapa, não foi realizada uma aplicação experimental do material com um grupo de estudantes. Dessa forma, não foram coletados dados quantitativos ou qualitativos que permitissem medir diretamente mudanças no desempenho, na aprendizagem ou na forma de utilização das ferramentas de Inteligência Artificial pelos estudantes.
+
+Os resultados apresentados estão, portanto, relacionados ao desenvolvimento e à organização dos materiais propostos, bem como à estruturação do projeto em ambiente digital.
+
+Outra limitação está relacionada ao fato de que as ferramentas de Inteligência Artificial estão em constante evolução. Novos recursos, modelos e formas de utilização podem surgir, tornando necessária a atualização periódica dos conteúdos desenvolvidos.
+
+Como possibilidade de continuidade, o projeto poderá futuramente ser aplicado com estudantes, permitindo a realização de avaliações, coleta de feedbacks e análise dos resultados obtidos a partir da utilização dos materiais.
+
 ## Referências
 
 ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA A EDUCAÇÃO, A CIÊNCIA E A CULTURA (UNESCO). AI competency framework for students. Paris: UNESCO, 2024. Disponível em: https://www.unesco.org/en/articles/ai-competency-framework-students. Acesso em: 9 set. 2026.
