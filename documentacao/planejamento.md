@@ -96,3 +96,13 @@ Também se espera que o projeto contribua para aproximar os estudantes das possi
 A proposta está alinhada à necessidade de desenvolver competências relacionadas ao uso responsável da Inteligência Artificial. A UNESCO destaca, em seu framework de competências para estudantes, aspectos como pensamento centrado no ser humano, ética, aplicação das tecnologias de IA e capacidade de analisar criticamente suas soluções. (UNESCO)
 
 Como o projeto não contempla, nesta etapa, uma aplicação experimental com estudantes, o impacto apresentado é considerado esperado, não sendo atribuídos ao projeto resultados de aprendizagem que ainda não tenham sido mensurados.
+
+## Referências
+
+ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA A EDUCAÇÃO, A CIÊNCIA E A CULTURA (UNESCO). AI competency framework for students. Paris: UNESCO, 2024. Disponível em: https://www.unesco.org/en/articles/ai-competency-framework-students. Acesso em: 9 set. 2026.
+
+MIAO, Fengchun; HOLMES, Wayne. Guidance for generative AI in education and research. Paris: UNESCO, 2023. Disponível em: https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research. Acesso em: 9 set. 2026.
+
+OECD. OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education. Paris: OECD Publishing, 2026. DOI: 10.1787/062a7394-en.
+
+OECD; EUROPEAN COMMISSION. Empowering Learners for the Age of AI: An AI Literacy Framework for Primary and Secondary Education. Paris: OECD Publishing, 2026. DOI: 10.1787/65cd27d4-en.
